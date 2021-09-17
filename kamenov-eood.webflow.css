@@ -606,7 +606,7 @@ img {
 
 .icon {
   border-radius: 12px;
-  background-image: url('images/Carousel-arrow-icon.svg');
+  background-image: url('Carousel-arrow-icon.svg');
   background-position: 50% 50%;
   background-size: auto;
   background-repeat: repeat;
