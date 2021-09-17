@@ -391,7 +391,7 @@ img {
 .section5-contacts {
   min-height: 600px;
   margin-top: 60px;
-  background-image: url('Contact-background.svg');
+  background-image: url('images/Contact-background.svg');
   background-position: 50% 50%;
   background-size: auto;
   background-repeat: no-repeat;
@@ -606,7 +606,7 @@ img {
 
 .icon {
   border-radius: 12px;
-  background-image: url('../images/Carousel-arrow-icon.svg');
+  background-image: url('images/Carousel-arrow-icon.svg');
   background-position: 50% 50%;
   background-size: auto;
   background-repeat: repeat;
@@ -615,7 +615,7 @@ img {
 
 .icon-2 {
   border-radius: 12px;
-  background-image: url('../images/Carousel-arrow-icon.svg');
+  background-image: url('images/Carousel-arrow-icon.svg');
   background-position: 50% 50%;
   background-size: auto;
   background-repeat: repeat;
@@ -825,7 +825,7 @@ img {
 }
 
 .slide {
-  background-image: url('../images/0-02-0a-a10f41cfbeef9fd4173af341d244990069c3c4a7de7699829d7d05b512b0d539_ca884dac.jpg');
+  background-image: url('images/0-02-0a-a10f41cfbeef9fd4173af341d244990069c3c4a7de7699829d7d05b512b0d539_ca884dac.jpg');
   background-position: 50% 50%;
   background-size: 800px;
   background-repeat: repeat-y;
@@ -833,7 +833,7 @@ img {
 }
 
 .slide-2 {
-  background-image: url('../images/0-02-05-e10837b978c25eb2d638336be7f636ea1214dec1fa97d48c8bb2f5c1f9bb816c_b0dc8422.jpg');
+  background-image: url('images/0-02-05-e10837b978c25eb2d638336be7f636ea1214dec1fa97d48c8bb2f5c1f9bb816c_b0dc8422.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: repeat-y;
@@ -841,56 +841,56 @@ img {
 }
 
 .slide-3 {
-  background-image: url('../images/0-02-05-c4ca03410e974d46dc436a446caf44c96aa5272892c9eeacec556b779d22925c_b711401c.jpg');
+  background-image: url('images/0-02-05-c4ca03410e974d46dc436a446caf44c96aa5272892c9eeacec556b779d22925c_b711401c.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: repeat-y;
 }
 
 .slide-4 {
-  background-image: url('../images/0-02-0a-94558fb12cca93ad4527cc896d8773cd82967c2518fd234e816976a69601b093_4eb78abd.jpg');
+  background-image: url('images/0-02-0a-94558fb12cca93ad4527cc896d8773cd82967c2518fd234e816976a69601b093_4eb78abd.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: repeat-y;
 }
 
 .slide-5 {
-  background-image: url('../images/0-02-05-4034c7a19e0b56538bbe2946fedae60c3077340dec06602063fc2e5c6b20d385_2bcc92c4.jpg');
+  background-image: url('images/0-02-05-4034c7a19e0b56538bbe2946fedae60c3077340dec06602063fc2e5c6b20d385_2bcc92c4.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: repeat-y;
 }
 
 .slide-6 {
-  background-image: url('../images/0-02-05-bffadb422f785375b79b0d160241b914166775664864f7a6a2c22aa3981cc431_92f6c244.jpg');
+  background-image: url('images/0-02-05-bffadb422f785375b79b0d160241b914166775664864f7a6a2c22aa3981cc431_92f6c244.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: repeat-y;
 }
 
 .slide-7 {
-  background-image: url('../images/0-02-05-a4523dc466db7f1c3dca8e8b675f70b81e5977c6ca92c468fc500819b3afe850_9f93ab89.jpg');
+  background-image: url('images/0-02-05-a4523dc466db7f1c3dca8e8b675f70b81e5977c6ca92c468fc500819b3afe850_9f93ab89.jpg');
   background-position: 50% 50%;
   background-size: auto;
   background-repeat: repeat-y;
 }
 
 .slide-8 {
-  background-image: url('../images/0-02-05-9a3dde978998db42743851747ae547ad0fe05dcb7ead36a8c3d5b8a445b78017_3d0a5764.jpg');
+  background-image: url('images/0-02-05-9a3dde978998db42743851747ae547ad0fe05dcb7ead36a8c3d5b8a445b78017_3d0a5764.jpg');
   background-position: 50% 50%;
   background-size: auto;
   background-repeat: repeat-y;
 }
 
 .slide-9 {
-  background-image: url('../images/0-02-0a-0ffbc52cd3844ba76039cad28cca1f4f0b601112bd524473bbb32883af5fc241_da808d5c.jpg');
+  background-image: url('images/0-02-0a-0ffbc52cd3844ba76039cad28cca1f4f0b601112bd524473bbb32883af5fc241_da808d5c.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: repeat-y;
 }
 
 .slide-1 {
-  background-image: url('../images/0-02-05-be43556698aab49c286659db72b2f862910b37d54a5e4976b7c221a1030e14de_c0f44f09.jpg');
+  background-image: url('images/0-02-05-be43556698aab49c286659db72b2f862910b37d54a5e4976b7c221a1030e14de_c0f44f09.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: repeat-y;
@@ -970,14 +970,14 @@ img {
 }
 
 .image-13 {
-  background-image: url('../images/fdsghj.svg');
+  background-image: url('images/fdsghj.svg');
   background-position: 50% 50%;
   background-size: 65px;
   background-attachment: fixed;
 }
 
 .image-14 {
-  background-image: url('../images/Screenshot-2021-09-12-at-21-51-20-Обяви-за-дистанционна-отдалечена-работа.svg');
+  background-image: url('images/Screenshot-2021-09-12-at-21-51-20-Обяви-за-дистанционна-отдалечена-работа.svg');
   background-position: 0px 0px;
   background-size: auto;
 }
@@ -1568,7 +1568,7 @@ img {
 
 @font-face {
   font-family: 'Segoeui';
-  src: url('../fonts/SEGOEUI.TTF') format('truetype');
+  src: url('fonts/SEGOEUI.TTF') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
