@@ -890,11 +890,19 @@ img {
 }
 
 .slide-1 {
+  background-image: url("Chain made of stone.png");
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: repeat-y;
+}
+
+.slide-10 {
   background-image: url("0-02-05-be43556698aab49c286659db72b2f862910b37d54a5e4976b7c221a1030e14de_c0f44f09.jpg");
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: repeat-y;
 }
+
 
 .video {
   left: auto;
